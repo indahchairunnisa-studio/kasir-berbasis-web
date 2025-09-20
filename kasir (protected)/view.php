@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+ <div class="modal fade" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+
+</html>
