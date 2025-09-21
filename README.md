@@ -46,4 +46,4 @@ A web based Cashier Information System application built using PHP Native withou
     - **Password: ●●●●●●**
    
 ## **📜 License**
-  - **This project is not free to use, copy, or redistribute without explicit permission.** Some essential files have been removed or modified, so the project is **not fully functional**. If you wish to use or modify this Cashier Information System for your own purposes, please contact the developer first via email: ichachairunnisa954@gmail.com
+  - **This project is not free to use, copy, or redistribute without explicit permission.** Some essential files have been removed or modified, so the project is **not fully functional**. If you wish to use or modify this **Cashier Information System** for your own purposes, please contact the developer first via email: **ichachairunnisa954@gmail.com**
