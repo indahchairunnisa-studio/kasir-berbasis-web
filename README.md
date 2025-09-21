@@ -1,4 +1,4 @@
-# kasir-berbasis-web
+# About kasir-berbasis-web
 A web based Cashier Information System application built using PHP Native without a framework. This system helps manage sales transactions, product stock, incoming goods, and customer data with an easy to use interface.
 
 ## **🚀 Key Features:**
