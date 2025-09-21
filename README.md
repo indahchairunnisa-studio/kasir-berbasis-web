@@ -38,9 +38,9 @@ A web based Cashier Information System application built using PHP Native withou
 
 ## **⚙️ Installation**
   - Install XAMPP and ensure MySQL is running on port 3306.
-  - Import the database using phpMyAdmin (the kasir.sql file is located inside the kasir folder).
-  - Move the project folder into your local server directory (e.g., htdocs in XAMPP).
-  - Run the application in your browser: http://localhost/kasir/
+  - Import the database using phpMyAdmin (the `kasir.sql` file is located inside the kasir folder).
+  - Move the project folder into your local server directory (e.g., `htdocs` in XAMPP).
+  - Run the application in your browser: `http://localhost/kasir/`
   - Default cashier login credentials:
     - **Username: ●●●●●●**
     - **Password: ●●●●●●**
