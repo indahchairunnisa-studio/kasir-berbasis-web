@@ -31,8 +31,9 @@ A web based Cashier Information System application built using PHP Native withou
 ## **🛠️ Technologies Used**
   - PHP Native (no framework)
   - MySQL (Port 3306) for database
+  - PHP version: 8.0.28
   - phpMyAdmin for database management
-  - XAMPP as local server environment
+  - XAMPP v3.3.0 as local server environment
   - Visual Studio Code (VS Code) as main code editor
   - HTML, CSS, JavaScript for frontend
 
